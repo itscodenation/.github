@@ -8,9 +8,9 @@
 _____
 <div align="center">
   
-| <a href="https://github.com/itscodenation/curriculum-22-23"><img src="https://i.imgur.com/dh0CJlN.png" alt="wiki" width="50px"></a> | <a href="https://github.com/itscodenation/curriculum-22-23/wiki"><img src="https://i.imgur.com/cKBPOn1.png" alt="curriculum" width="50px"></a> |
+| <a href="https://github.com/itscodenation/curriculum-22-23"><img src="https://i.imgur.com/dh0CJlN.png" alt="wiki" width="70px"></a> | <a href="https://github.com/itscodenation/curriculum-22-23/wiki"><img src="https://i.imgur.com/cKBPOn1.png" alt="curriculum" width="70px"></a> |
 | :---: | :---: |
-| <h5><a href="https://github.com/itscodenation/curriculum-22-23">Code Nation <br> Curriculum</a></h5> </div> | <h5><a href="https://github.com/itscodenation/curriculum-22-23/wiki">Code Nation <br> Wiki</a></h5> |
+| <h5><a href="https://github.com/itscodenation/curriculum-22-23">Curriculum</a></h5> </div> | <h5><a href="https://github.com/itscodenation/curriculum-22-23/wiki">Wiki</a></h5> |
 
 </div>
 
