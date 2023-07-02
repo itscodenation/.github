@@ -9,8 +9,6 @@
 
 ---
 
-*Note: The curriculum linked below is for the school year of 2022-2023. The curriculum for the 2023-2024 is still in progress - we will update the links by the start of programs.*
-
 <br>
   
 | Program Level | Description |
@@ -21,6 +19,8 @@
 | [Fellowship II](https://github.com/itscodenation/curriculum-22-23/tree/main/FLW%20II) | The focus of this course is **Agency**. In this course, students will learn the fundamentals of<br>ReactJS, continue to develop their knowledge of computer science principles, enhance their<br>professional development skills, and increase their coding independence. |
 
 <br>
+
+*Note: The curriculum linked below is for the school year of 2022-2023. The curriculum for the 2023-2024 is still in progress - we will update the links by the start of programs.*
 
 Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curriculum-22-23/wiki)
 
