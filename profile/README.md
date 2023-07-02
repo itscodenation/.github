@@ -20,9 +20,11 @@
 
 <br>
 
----
+Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curriculum-22-23/wiki)
 
-[Code Nation Wiki](https://github.com/itscodenation/curriculum-22-23/wiki)
+<br>
+
+---
 
 <br>
   
