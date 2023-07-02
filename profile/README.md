@@ -12,10 +12,7 @@ _____
 
 | Program Level | Description |
 | --------------------------------------------------------------------------------------------- | -------------------------- |
-| [Intro to Web Development](https://github.com/itscodenation/curriculum-22-23/tree/main/INTRO) | The focus of this course is **Exposure**. 
-<br>In this course, students are introduced to HTML, CSS and JavaScript. 
-<br>By the end of the course, students will be able to make simple webpages 
-<br>that involve fundamental JavaScript concepts. |
+| [Intro to Web Development](https://github.com/itscodenation/curriculum-22-23/tree/main/INTRO) | The focus of this course is **Exposure**.<br> In this course, students are introduced to HTML, CSS and JavaScript.<br> By the end of the course, students will be able to make simple webpages<br> that involve fundamental JavaScript concepts. |
 | [Intro to Web Development <br> (1-Semester)](https://github.com/itscodenation/curriculum-22-23/tree/main/INTRO_OneSemester) | Please use this curriculum portal if you're teaching an Intro class that 
 <br>is **ONLY one semester.** It still reviews HTML, CSS, and JavaScript, 
 <br>but due to the shorter length, has a slightly different number and 
