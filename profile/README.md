@@ -25,8 +25,6 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 <br>
 
 ---
-
-<br>
   
 For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
 <br>
