@@ -22,10 +22,10 @@
 
 Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curriculum-22-23/wiki)
 
+
 *Note: The curriculum linked above is for the school year of 2022-2023. The curriculum for the 2023-2024 is still in progress - we will update the links by the start of programs.*
 
 <br>
-
 ---
   
 For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
