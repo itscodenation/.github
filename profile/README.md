@@ -9,6 +9,9 @@
 
 _____
 
+
+<div align="center>
+  
 | Program Level | Description |
 | ------------------------------------------------ | ------------------------------------------------------------ |
 | [Intro to Web Development](https://github.com/itscodenation/curriculum-22-23/tree/main/INTRO) | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS<br>and JavaScript. By the end of the course, students will be able to make simple webpages<br>that involve fundamental JavaScript concepts. |
@@ -16,6 +19,7 @@ _____
 | [Fellowship I](https://github.com/itscodenation/curriculum-22-23/tree/main/FLWI) | The focus of this course is **Experience**. In this course, students will further develop<br>their technical skills by building complex projects using JavaScript and APIs. Students<br>will also build their professional skill set and work products. |
 | [Fellowship II](https://github.com/itscodenation/curriculum-22-23/tree/main/FLW%20II) | The focus of this course is **Agency**. In this course, students will learn the fundamentals<br>of ReactJS, continue to develop their knowledge of computer science principles, enhance<br>their professional development skills, and increase their coding independence. |
 
+</div>
 
 
 
