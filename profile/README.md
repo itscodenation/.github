@@ -31,7 +31,11 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 
 Happy learning! 🌈
 
+<br>
+
 -- The Code Nation Team
+
+<br>
 
 ---
   
