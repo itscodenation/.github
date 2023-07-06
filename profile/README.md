@@ -35,13 +35,15 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 As our available repositories grow, the harder some can be to find! 
 
 **The repositories follow this naming format:**
-format: [program type]-[topic]-[start and end year]-[repo type]
+format sections: [program type]-[topic]-[start and end year]-[repo type]
 example: int-trivia-22-23-starter
+
+*Note: some repositories may not use every format section*
 
 **Use these keywords to help you find what you're looking for 😊:**
 | program type | topic | start year and end year | repo type |
 | ------------ | ----- | ----------------------- | --------- |
-| int, flw, flw1, flw2 | html, css, js, trivia, lyrics | 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-24 | project, starter, solution, exercise |
+| int, flw, flw1, flw2 | html, css, js, react, calculator, jeopardy, portfolio, trivia, lyrics | 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-24 | project, starter, solution, exercise |
 
 
 <br>
