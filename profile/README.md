@@ -34,9 +34,11 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 
 As our available repositories grow, the harder some can be to find! Below are some tips for searching - important to note that some repositories may not use every format section in their name. 
 
+<br>
 
 **The repositories follow this naming format:**
-<br><br>format sections: [program type]-[topic]-[start and end year]-[repo type]
+<br>
+<br>format sections: [program type]-[topic]-[start and end year]-[repo type]
 <br>example: int-trivia-22-23-starter
 
 
