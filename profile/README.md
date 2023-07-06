@@ -36,7 +36,7 @@ As our available repositories grow, the harder some can be to find! Below are so
 
 
 **The repositories follow this naming format:**
-<br>format sections: [program type]-[topic]-[start and end year]-[repo type]
+<br><br>format sections: [program type]-[topic]-[start and end year]-[repo type]
 <br>example: int-trivia-22-23-starter
 
 
