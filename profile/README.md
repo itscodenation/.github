@@ -30,9 +30,9 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 
 ---
 
-#### Keywords to Search for Repositories
+### Keywords to Search for Repositories
 
-As our available repositories grow, the harder some can be to find! 
+As our available repositories grow, the harder some can be to find! Below are some tips for searching - important to note that some repositories may not use every format section in their name. 
 
 
 **The repositories follow this naming format:**
@@ -47,7 +47,6 @@ example: int-trivia-22-23-starter
 | ------------ | ----- | ----------------------- | --------- |
 | int, flw, flw1, flw2 | html, css, js, jquery, react, calculator, jeopardy, portfolio, trivia, lyrics | 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-24 | project, starter, solution, exercise |
 
-*Note: some repositories may not use every format section*
 
 <br>
 
