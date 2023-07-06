@@ -31,6 +31,7 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 ---
 
 ### Keywords to Search for Repositories
+<br>
 
 As our available repositories grow, the harder some can be to find! Below are some tips for searching - some repositories may not use every format section in their name, but most do. 
 
