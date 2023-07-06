@@ -28,6 +28,28 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 
 <br>
 
+---
+
+<br>
+#### Keywords to Search for Repositories
+As our available repositories grow, the easier something can get hard to find! 
+
+The repositories follow this naming format:
+
+format: [program type]-[topic]-[start and end year]-[repo type]
+example: int-trivia-22-23-starter
+
+Use these keywords to help you find what you're looking for 😊:
+
+| program type | topic | start year and end year | repo type |
+| ------------ | ----- | ----------------------- | --------- |
+| int, flw, flw1, flw2 | html, css, js, trivia, lyrics | project, starter, solution, exercise |
+
+
+<br>
+
+---
+
 
 Happy learning! 🌈
 
