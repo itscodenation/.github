@@ -9,7 +9,9 @@
 
 ---
 <br>
+
 The curricula linked is for the 2023-2024 school year. This curricula is still in progress - a timeline for updates is below.
+
 <br>
   
 | Program Level | Description |
