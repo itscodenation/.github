@@ -13,7 +13,7 @@
   
 | Program Level | Description |
 | ------------------------------------------------ | ------------------------------------------------------------ |
-| [Intro to Web Development](https://github.com/itscodenation/int-curriculum-23-24) | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. Note: 1-semester programs should get through Units 1-4.|
+| [Intro to Web Development](https://github.com/itscodenation/int-curriculum-23-24) | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. *Note: 1-semester programs should get through Units 1-4.*|
 | [Fellowship I](https://github.com/itscodenation/curriculum-22-23/tree/main/FLWI) | The focus of this course is **Experience**. In this course, students will further develop their<br>technical skills by building complex projects using JavaScript and APIs. Students will also build<br>their professional skill set and work products. |
 | [Fellowship II](https://github.com/itscodenation/curriculum-22-23/tree/main/FLW%20II) | The focus of this course is **Agency**. In this course, students will learn the fundamentals of<br>ReactJS, continue to develop their knowledge of computer science principles, enhance their<br>professional development skills, and increase their coding independence. |
 
