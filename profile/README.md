@@ -8,14 +8,15 @@
 <p>✨Welcome✨ to the official GitHub repository for Code Nation, a non-profit organization with a mission to bring quality computer science instruction to under-resourced communities. <br><br> 💛 We embrace the transformative power of open-source development to dismantle barriers in technology and education. Here, we share the code, resources, and initiatives that fuel our work, built with the belief that everyone, regardless of their background, should have access to, contribute to, and learn from technology. Our collaborative projects aim to uplift the communities we serve by ensuring access to high-quality, practical coding knowledge. <br><br> 💪 Whether you're an experienced developer or a beginner, your contribution can make a real difference. Join us as we work together to democratize computer science education and create a more inclusive digital future.</p>
 
 ---
-
+<br>
+The curricula linked is for the 2023-2024 school year. This curricula is still in progress - a timeline for updates is below.
 <br>
   
 | Program Level | Description |
 | ------------------------------------------------ | ------------------------------------------------------------ |
 | [Intro to Web Development](https://github.com/itscodenation/int-curriculum-23-24) | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. *Note: 1-semester programs should get through Units 1-4.*|
-| [Fellowship I](https://github.com/itscodenation/curriculum-22-23/tree/main/FLWI) | The focus of this course is **Experience**. In this course, students will further develop their<br>technical skills by building complex projects using JavaScript and APIs. Students will also build<br>their professional skill set and work products. |
-| [Fellowship II](https://github.com/itscodenation/curriculum-22-23/tree/main/FLW%20II) | The focus of this course is **Agency**. In this course, students will learn the fundamentals of<br>ReactJS, continue to develop their knowledge of computer science principles, enhance their<br>professional development skills, and increase their coding independence. |
+| [Fellowship I]() | The focus of this course is **Experience**. In this course, students will further develop their<br>technical skills by building complex projects using JavaScript and APIs. Students will also build<br>their professional skill set and work products. |
+| [Fellowship II]() | The focus of this course is **Agency**. In this course, students will learn the fundamentals of<br>ReactJS, continue to develop their knowledge of computer science principles, enhance their<br>professional development skills, and increase their coding independence. |
 
 <br>
 
@@ -23,7 +24,7 @@ Additional Resources: [Code Nation Wiki](https://github.com/itscodenation/curric
 
 <br>
 
-*Note: The curriculum linked above is for the 2022-2023 school year. The curriculum for 2023-2024 is still in progress - we will update the links by the start of programs.*
+*Note: The curricula for 2022-2023 will remain pinned until all updates are complete.*
 
 <br>
 
