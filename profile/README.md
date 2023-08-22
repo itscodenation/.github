@@ -16,7 +16,7 @@ The curricula linked is for the 2023-2024 school year. This curricula is still i
   
 | Program Level | Description |
 | ------------------------------------------------ | ------------------------------------------------------------ |
-| [Intro to Web Development](https://github.com/itscodenation/int-curriculum-23-24) | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. *Note: 1-semester programs should get through Units 1-4.*|
+| [Intro to Web Development](https://github.com/itscodenation/int-curriculum-23-24) | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. *Note: 1-semester programs should get through Units 1-3.*|
 | [Fellowship I] | The focus of this course is **Experience**. In this course, students will further develop their<br>technical skills by building complex projects using JavaScript and APIs. Students will also build<br>their professional skill set and work products. |
 | [Fellowship II] | The focus of this course is **Agency**. In this course, students will learn the fundamentals of<br>ReactJS, continue to develop their knowledge of computer science principles, enhance their<br>professional development skills, and increase their coding independence. |
 
@@ -31,17 +31,17 @@ Additional Resources:
 | Program                    | Units | Available       |
 |----------------------------|-------|-----------------|
 | INT                        | 1-2   | August 14th ✔️   |
-| FLW1                       | 1     | August 23rd     |
-| TLP Resource Sheet         | -     | August 23rd     |
-| FLW2                       | 1     | August 30th     |
-| FLW1                       | 2     | September 4th   |
-| INT                        | 3-4   | September 11th  |
+| FLW1                       | 1     | August 30th     |
+| TLP Resource Sheet         | -     | August 30th     |
+| FLW2                       | 1     | Seprember 4th   |
+| FLW1                       | 2     | September 11th  |
+| INT                        | 3     | September 11th  |
 | FLW2                       | 2     | September 18th  |
 | FLW1/FLW2                  | 3-4   | September 25th  |
-| INT/FLW1/FLW2              | 5     | October 2nd     |
-| INT                        | 6-7   | October 8th     |
+| INT/FLW1/FLW2              | 4     | October 2nd     |
+| INT                        | 5-6   | October 8th     |
 
-*dates are tentative to change - updated as of 8.18.2023
+*dates are tentative to change - updated as of 8.22.2023
 
 <br>
 
