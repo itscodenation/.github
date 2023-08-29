@@ -24,7 +24,7 @@ The curricula linked is for the 2023-2024 school year. This curricula is still i
 
 Additional Resources: 
 - [Curriculum Feedback Form](https://form.asana.com/?k=l8SrTkT1KCW2hZarmMMfOg&d=907180783729040)
-- [Code Nation Wiki](https://github.com/itscodenation/curriculum-22-23/wiki) (this will get revised for the 23-24 school year)
+- [Intro Code Nation Wiki](https://github.com/itscodenation/int-curriculum-23-24/wiki)
 
 <br>
 
