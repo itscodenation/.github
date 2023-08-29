@@ -31,8 +31,8 @@ Additional Resources:
 | Program                    | Units | Available       |
 |----------------------------|-------|-----------------|
 | INT                        | 1-2   | August 14th ✔️   |
-| FLW1                       | 1     | August 30th     |
-| TLP Resource Sheet         | -     | August 30th     |
+| TLP Resource Sheet         | -     | August 30th ✔️   |
+| FLW1                       | 1     | September 1st   |
 | FLW2                       | 1     | Seprember 4th   |
 | FLW1                       | 2     | September 11th  |
 | INT                        | 3     | September 11th  |
@@ -41,7 +41,7 @@ Additional Resources:
 | INT/FLW1/FLW2              | 4     | October 2nd     |
 | INT                        | 5-6   | October 8th     |
 
-*dates are tentative to change - updated as of 8.22.2023
+*dates are tentative to change - updated as of 8.29.2023
 
 <br>
 
