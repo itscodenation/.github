@@ -32,16 +32,16 @@ Additional Resources:
 |----------------------------|-------|-----------------|
 | INT                        | 1-2   | August 14th ✔️   |
 | TLP Resource Sheet         | -     | August 30th ✔️   |
-| FLW1                       | 1     | September 1st   |
-| FLW2                       | 1     | Seprember 4th   |
-| FLW1                       | 2     | September 11th  |
+| FLW1                       | 1     | September 5th   |
 | INT                        | 3     | September 11th  |
+| FLW2                       | 1     | Seprember 11th  |
+| FLW1                       | 2     | September 18th  |
 | FLW2                       | 2     | September 18th  |
 | FLW1/FLW2                  | 3-4   | September 25th  |
 | INT/FLW1/FLW2              | 4     | October 2nd     |
 | INT                        | 5-6   | October 8th     |
 
-*dates are tentative to change - updated as of 8.29.2023
+*dates are tentative to change - updated as of 9.1.2023
 
 <br>
 
