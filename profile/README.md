@@ -23,8 +23,12 @@ The curricula linked is for the 2023-2024 school year. This curricula is still i
 <br>
 
 Additional Resources: 
-- [Curriculum Feedback Form](https://form.asana.com/?k=l8SrTkT1KCW2hZarmMMfOg&d=907180783729040)
-- [Intro Code Nation Wiki](https://github.com/itscodenation/int-curriculum-23-24/wiki)
+- 📝 [Curriculum Feedback Form](https://form.asana.com/?k=l8SrTkT1KCW2hZarmMMfOg&d=907180783729040)
+- 🌐 [Intro to Web Dev Wiki](https://github.com/itscodenation/int-curriculum-23-24/wiki)
+
+Student Resources:
+- 📖 [Intro to Web Dev Essentials Guides](https://github.com/itscodenation/int-guides-23-24)
+- 📖 [Fellowship I Essentials Guides](https://github.com/itscodenation/flw1-guides-23-24)
 
 <br>
 
