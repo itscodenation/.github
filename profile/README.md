@@ -37,8 +37,8 @@ Student Resources:
 | INT                        | 1-2   | August 14th ✔️   |
 | TLP Resource Sheet         | -     | August 30th ✔️   |
 | FLW1                       | 1     | September 5th ✔️ |
-| INT                        | 3     | September 18th  |
-| FLW2                       | 1     | Seprember 18th  |
+| INT                        | 3     | September 18th ✔️  |
+| FLW2                       | 1     | Seprember 18th ✔️  |
 | FLW1                       | 2     | September 25th  |
 | FLW2                       | 2     | September 25th  |
 | FLW1/FLW2                  | 3-4   | October 2nd     |
