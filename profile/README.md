@@ -32,15 +32,15 @@ Student Resources:
 
 <br>
 
-| Program                    | Units | Available       |
-|----------------------------|-------|-----------------|
-| FLW1                       | 2     | September 27th  |
-| FLW2                       | 2     | September 27th  |
-| FLW1/FLW2                  | 3-4   | October 2nd     |
-| INT/FLW1/FLW2              | 4     | October 9th     |
-| INT                        | 5-6   | October 16th    |
+| Program                    | Units | Uploaded to GitHub            |
+|----------------------------|-------|-------------------------------|
+| FLW1                       | 2     | September 29th - October 3rd  |
+| FLW2                       | 2     | September 29th - October 3rd  |
+| FLW1/FLW2                  | 3-4   | October 6th - October 8th     |
+| INT/FLW1/FLW2              | 4     | October 13th - October 20th   |
+| INT                        | 5-6   | October 23rd - October 27th   |
 
-*dates are tentative to change - updated as of 9.22.2023
+*dates are tentative to change - updated as of 10.3.2023
 
 <br>
 
