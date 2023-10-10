@@ -36,7 +36,7 @@ Student Resources:
 |----------------------------|-------|-------------------------------|
 | FLW1                       | 2     | September 29th - October 3rd  |
 | FLW2                       | 2     | September 29th - October 3rd  |
-| FLW1/FLW2                  | 3-4   | October 6th - October 8th     |
+| FLW1/FLW2                  | 3-4   | October 10th - October 13th   |
 | INT/FLW1/FLW2              | 4     | October 13th - October 20th   |
 | INT                        | 5-6   | October 23rd - October 27th   |
 
