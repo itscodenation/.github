@@ -34,12 +34,11 @@ Student Resources:
 
 | Program                    | Units | Uploaded to GitHub            |
 |----------------------------|-------|-------------------------------|
-| INT                        | 4     | October 30th - November 3rd   |
-| FLW1                       | 3-4   | October 30th - November 3rd   |
-| INT                        | 5-6   | November 6th - November 10th  |
-| FLW2                       | 3-4   | November 6th - November 10th  |
+| FLW1                       | 3-4   | November 13th - November 30th |
+| INT                        | 5-6   | November 13th - November 30th |
+| FLW2                       | 3-4   | November 13th - November 30th |
 
-*dates are tentative to change - updated as of 10.25.2023
+*dates are tentative to change - updated as of 11.13.2023
 
 <br>
 
