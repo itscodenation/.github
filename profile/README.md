@@ -34,11 +34,10 @@ Student Resources:
 
 | Program                    | Units | Uploaded to GitHub            |
 |----------------------------|-------|-------------------------------|
-| FLW1                       | 3-4   | December 1st - December 15th |
-| INT                        | 5-6   | December 1st - December 15th |
-| FLW2                       | 3-4   | December 1st - December 15th |
+| FLW1                       | 4     | January 1st - January 31st    |
+| FLW2                       | 3-4   | January 1st - January 31st    |
 
-*dates are tentative to change - updated as of 12.3.2023
+*dates are tentative to change - updated as of 1.2.2024
 
 <br>
 
