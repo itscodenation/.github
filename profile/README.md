@@ -74,7 +74,7 @@ Happy learning! 🌈
 
 <br>
 
--- The Code Nation Team
+-- Mika @ Code Nation
 
 <br>
 
