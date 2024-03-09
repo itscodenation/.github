@@ -34,10 +34,9 @@ Student Resources:
 
 | Program                    | Units | Uploaded to GitHub            |
 |----------------------------|-------|-------------------------------|
-| FLW1                       | 4     | March 8th                     |
-| FLW2                       | 4     | March 8th                     |
+| FLW2                       | 4     | March 11th                    |
 
-*dates are tentative to change - updated as of 2.28.2024
+*dates are tentative to change - updated as of 3.9.2024
 
 <br>
 
@@ -74,7 +73,7 @@ Happy learning! 🌈
 
 <br>
 
--- Mika @ Code Nation
+-- Mika Hughes, Sr. Curriculum Development Manager @ Code Nation
 
 <br>
 
