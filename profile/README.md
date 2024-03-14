@@ -32,14 +32,6 @@ Student Resources:
 
 <br>
 
-| Program                    | Units | Uploaded to GitHub            |
-|----------------------------|-------|-------------------------------|
-| FLW2                       | 4     | March 11th                    |
-
-*dates are tentative to change - updated as of 3.9.2024
-
-<br>
-
 ---
 
 ### Keywords to Search for Repositories
